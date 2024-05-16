@@ -1,5 +1,7 @@
 manifest:
   remotes:
+    - name: zmkfirmware
+      url-base: https://github.com/zmkfirmware
     - name: cdc-mkb
       url-base: https://github.com/cdc-mkb
     # Additional modules containing boards/shields/custom code can be listed here as well
