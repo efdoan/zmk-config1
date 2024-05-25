@@ -22,3 +22,4 @@ include:
     shield: kyria_rev2_left
   - board: nice_nano
     shield: kyria_rev2_right
+    shield: settings_reset
