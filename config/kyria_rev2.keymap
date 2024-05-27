@@ -4,12 +4,10 @@
 #include <dt-bindings/zmk/outputs.h>
 
 #define BASE 0
-#define ENC2 1
-#define ENC3 2
-#define FNC  3
-#define NUM  4
-#define NAV  5
-#define OSL 6
+#define FNC  1
+#define NUM  2
+#define NAV  3
+#define OSL 4
 #define PTAB LC(PG_UP)
 #define NTAB LC(PG_DN)
 #define NWIN LA(TAB)
